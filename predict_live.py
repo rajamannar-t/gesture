@@ -5,7 +5,7 @@ import json
 import numpy as np
 
 # Load trained model
-model = joblib.load('gesture_model.pkl')
+model, scaler= joblib.load('gesture_model.pkl')
 
 # Load cultural data
 with open("cultural_data.json", "r") as f:
@@ -46,7 +46,8 @@ while True:
 
             if len(landmarks) == 42:
                 # ✅ FIX sklearn warning
-                prediction = model.predict(np.array([landmarks]))[0]
+                landmarks = scaler.transform([landmarks])
+                prediction = model.predict(landmarks)[0]
 
                 # ✅ normalize prediction (IMPORTANT FIX)
                 prediction_key = prediction.lower().replace(" ", "_")
