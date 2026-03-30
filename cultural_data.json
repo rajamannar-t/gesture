@@ -1,0 +1,364 @@
+[
+  {
+    "gesture_name": "Namaste",
+    "region": "India",
+    "meaning": "Respectful greeting",
+    "emotion": "Respect, humility",
+    "usage_context": "Formal and informal greetings",
+    "offensive_in": [],
+    "cultural_notes": "Traditional Indian greeting with folded hands."
+  },
+  {
+    "gesture_name": "Thumbs Up",
+    "region": ["India", "USA", "Europe"],
+    "meaning": "Approval or agreement",
+    "emotion": "Positive, encouragement",
+    "usage_context": "Informal communication",
+    "offensive_in": ["Some Middle Eastern regions"],
+    "cultural_notes": "Meaning varies across cultures."
+  },
+  {
+    "gesture_name": "Thumbs Down",
+    "region": ["Global"],
+    "meaning": "Disapproval",
+    "emotion": "Negative, rejection",
+    "usage_context": "Expressing disagreement",
+    "offensive_in": [],
+    "cultural_notes": "Commonly used in Western contexts."
+  },
+  {
+    "gesture_name": "Okay Sign",
+    "region": ["USA", "Europe"],
+    "meaning": "Everything is fine",
+    "emotion": "Confidence",
+    "usage_context": "Casual approval",
+    "offensive_in": ["Brazil", "Turkey"],
+    "cultural_notes": "Has controversial meanings in some regions."
+  },
+  {
+    "gesture_name": "Peace Sign",
+    "region": ["Global"],
+    "meaning": "Peace or victory",
+    "emotion": "Positivity",
+    "usage_context": "Photographs and greetings",
+    "offensive_in": ["UK (if palm inward)"],
+    "cultural_notes": "Palm direction changes meaning."
+  },
+  {
+    "gesture_name": "Stop Palm",
+    "region": ["Global"],
+    "meaning": "Stop",
+    "emotion": "Warning",
+    "usage_context": "Traffic or arguments",
+    "offensive_in": [],
+    "cultural_notes": "Universal gesture for halting."
+  },
+  {
+    "gesture_name": "Waving Hand",
+    "region": ["Global"],
+    "meaning": "Hello or goodbye",
+    "emotion": "Friendly",
+    "usage_context": "Greetings",
+    "offensive_in": [],
+    "cultural_notes": "One of the most universal gestures."
+  },
+  {
+    "gesture_name": "Clapping",
+    "region": ["Global"],
+    "meaning": "Applause",
+    "emotion": "Appreciation",
+    "usage_context": "Events and performances",
+    "offensive_in": [],
+    "cultural_notes": "Symbol of appreciation."
+  },
+  {
+    "gesture_name": "Hand on Heart",
+    "region": ["Middle East", "India"],
+    "meaning": "Respect or sincerity",
+    "emotion": "Gratitude",
+    "usage_context": "Greeting elders",
+    "offensive_in": [],
+    "cultural_notes": "Common in Middle Eastern culture."
+  },
+  {
+    "gesture_name": "Finger Snap",
+    "region": ["USA", "Europe"],
+    "meaning": "Calling attention",
+    "emotion": "Impatience",
+    "usage_context": "Informal settings",
+    "offensive_in": ["Japan"],
+    "cultural_notes": "Considered rude in some cultures."
+  },
+  {
+    "gesture_name": "Finger Pointing",
+    "region": ["Global"],
+    "meaning": "Indicating direction",
+    "emotion": "Neutral",
+    "usage_context": "Giving instructions",
+    "offensive_in": ["Malaysia", "Philippines"],
+    "cultural_notes": "Considered rude in Southeast Asia."
+  },
+  {
+    "gesture_name": "Crossed Fingers",
+    "region": ["USA", "Europe"],
+    "meaning": "Good luck",
+    "emotion": "Hope",
+    "usage_context": "Before exams or events",
+    "offensive_in": [],
+    "cultural_notes": "Symbol of wishing success."
+  },
+  {
+    "gesture_name": "Fist Pump",
+    "region": ["USA"],
+    "meaning": "Celebration",
+    "emotion": "Excitement",
+    "usage_context": "Sports or achievements",
+    "offensive_in": [],
+    "cultural_notes": "Popular in sports culture."
+  },
+  {
+    "gesture_name": "Handshake",
+    "region": ["Global"],
+    "meaning": "Greeting or agreement",
+    "emotion": "Professional respect",
+    "usage_context": "Business meetings",
+    "offensive_in": [],
+    "cultural_notes": "Common formal greeting."
+  },
+  {
+    "gesture_name": "High Five",
+    "region": ["Global"],
+    "meaning": "Celebration",
+    "emotion": "Joy",
+    "usage_context": "Friends and sports",
+    "offensive_in": [],
+    "cultural_notes": "Celebratory gesture."
+  },
+  {
+    "gesture_name": "Folding Arms",
+    "region": ["Global"],
+    "meaning": "Defensiveness or comfort",
+    "emotion": "Neutral",
+    "usage_context": "Listening posture",
+    "offensive_in": [],
+    "cultural_notes": "Interpretation depends on context."
+  },
+  {
+    "gesture_name": "Raised Fist",
+    "region": ["Global"],
+    "meaning": "Solidarity or protest",
+    "emotion": "Empowerment",
+    "usage_context": "Political rallies",
+    "offensive_in": [],
+    "cultural_notes": "Symbol of resistance."
+  },
+  {
+    "gesture_name": "Beckoning Finger",
+    "region": ["Asia"],
+    "meaning": "Calling someone",
+    "emotion": "Commanding",
+    "usage_context": "Informal call",
+    "offensive_in": ["Philippines"],
+    "cultural_notes": "Seen as disrespectful in some countries."
+  },
+  {
+    "gesture_name": "Touching Feet",
+    "region": ["India"],
+    "meaning": "Seeking blessings",
+    "emotion": "Respect",
+    "usage_context": "Greeting elders",
+    "offensive_in": [],
+    "cultural_notes": "Traditional Indian custom."
+  },
+  {
+    "gesture_name": "Salute",
+    "region": ["Global"],
+    "meaning": "Respect or military greeting",
+    "emotion": "Honor",
+    "usage_context": "Military or formal events",
+    "offensive_in": [],
+    "cultural_notes": "Used in armed forces worldwide."
+  },
+
+  {
+    "gesture_name": "Palm Together Bow",
+    "region": ["Japan", "Thailand"],
+    "meaning": "Greeting with respect",
+    "emotion": "Politeness",
+    "usage_context": "Formal greetings",
+    "offensive_in": [],
+    "cultural_notes": "Similar to Namaste but with bow."
+  },
+  {
+    "gesture_name": "Rock Sign",
+    "region": ["USA"],
+    "meaning": "Rock music symbol",
+    "emotion": "Excitement",
+    "usage_context": "Concerts",
+    "offensive_in": ["Italy (varies)"],
+    "cultural_notes": "Also called devil horns."
+  },
+  {
+    "gesture_name": "Shaka Sign",
+    "region": ["Hawaii"],
+    "meaning": "Hang loose",
+    "emotion": "Friendly",
+    "usage_context": "Casual greeting",
+    "offensive_in": [],
+    "cultural_notes": "Symbol of Hawaiian culture."
+  },
+  {
+    "gesture_name": "Open Arms",
+    "region": ["Global"],
+    "meaning": "Welcome",
+    "emotion": "Warmth",
+    "usage_context": "Greeting someone warmly",
+    "offensive_in": [],
+    "cultural_notes": "Universal welcoming sign."
+  },
+  {
+    "gesture_name": "Hands Raised",
+    "region": ["Global"],
+    "meaning": "Surrender or celebration",
+    "emotion": "Submission or joy",
+    "usage_context": "Police or sports",
+    "offensive_in": [],
+    "cultural_notes": "Context determines meaning."
+  },
+  {
+    "gesture_name": "Finger Heart",
+    "region": ["South Korea"],
+    "meaning": "Love or affection",
+    "emotion": "Affection",
+    "usage_context": "Photos and pop culture",
+    "offensive_in": [],
+    "cultural_notes": "Popular in K-pop culture."
+  },
+  {
+    "gesture_name": "Facepalm",
+    "region": ["Global"],
+    "meaning": "Embarrassment or frustration",
+    "emotion": "Disappointment",
+    "usage_context": "Reacting to mistakes",
+    "offensive_in": [],
+    "cultural_notes": "Expresses disbelief."
+  },
+  {
+    "gesture_name": "Prayer Hands",
+    "region": ["Global"],
+    "meaning": "Prayer or gratitude",
+    "emotion": "Faith",
+    "usage_context": "Religious context",
+    "offensive_in": [],
+    "cultural_notes": "Similar to Namaste but religious."
+  },
+  {
+    "gesture_name": "Index to Lips",
+    "region": ["Global"],
+    "meaning": "Be quiet",
+    "emotion": "Calmness",
+    "usage_context": "Libraries or silence zones",
+    "offensive_in": [],
+    "cultural_notes": "Universal silence sign."
+  },
+  {
+    "gesture_name": "Shrug",
+    "region": ["Global"],
+    "meaning": "I don't know",
+    "emotion": "Confusion",
+    "usage_context": "Casual conversation",
+    "offensive_in": [],
+    "cultural_notes": "Shoulder + hand gesture."
+  },
+
+  {
+    "gesture_name": "Hand Over Mouth",
+    "region": ["Global"],
+    "meaning": "Shock or secrecy",
+    "emotion": "Surprise",
+    "usage_context": "Reaction",
+    "offensive_in": [],
+    "cultural_notes": "Common expressive gesture."
+  },
+  {
+    "gesture_name": "Crossed Arms Over Chest",
+    "region": ["Egypt"],
+    "meaning": "Respect",
+    "emotion": "Honor",
+    "usage_context": "Formal greeting",
+    "offensive_in": [],
+    "cultural_notes": "Ancient symbolic gesture."
+  },
+  {
+    "gesture_name": "Hand on Chin",
+    "region": ["Global"],
+    "meaning": "Thinking",
+    "emotion": "Contemplation",
+    "usage_context": "Problem solving",
+    "offensive_in": [],
+    "cultural_notes": "Body language indicator."
+  },
+  {
+    "gesture_name": "Palm Out Push",
+    "region": ["Greece"],
+    "meaning": "Insult (Moutza)",
+    "emotion": "Anger",
+    "usage_context": "Conflict",
+    "offensive_in": ["Greece"],
+    "cultural_notes": "Highly offensive in Greece."
+  },
+  {
+    "gesture_name": "Hand Over Head",
+    "region": ["Global"],
+    "meaning": "Victory or stretch",
+    "emotion": "Relief",
+    "usage_context": "After success",
+    "offensive_in": [],
+    "cultural_notes": "Context dependent."
+  },
+  {
+    "gesture_name": "Touching Nose",
+    "region": ["UK"],
+    "meaning": "Secret knowledge",
+    "emotion": "Playful",
+    "usage_context": "Informal",
+    "offensive_in": [],
+    "cultural_notes": "Subtle cultural sign."
+  },
+  {
+    "gesture_name": "Palm Up Question",
+    "region": ["Global"],
+    "meaning": "Why?",
+    "emotion": "Curiosity",
+    "usage_context": "Asking explanation",
+    "offensive_in": [],
+    "cultural_notes": "Common questioning gesture."
+  },
+  {
+    "gesture_name": "Hand Chop",
+    "region": ["Japan"],
+    "meaning": "Excuse me",
+    "emotion": "Polite interruption",
+    "usage_context": "Getting attention",
+    "offensive_in": [],
+    "cultural_notes": "Polite Japanese gesture."
+  },
+  {
+    "gesture_name": "Palm on Chest Bow",
+    "region": ["Middle East"],
+    "meaning": "Gratitude",
+    "emotion": "Sincerity",
+    "usage_context": "After receiving help",
+    "offensive_in": [],
+    "cultural_notes": "Sign of humility."
+  },
+  {
+    "gesture_name": "Victory Fist",
+    "region": ["Global"],
+    "meaning": "Success",
+    "emotion": "Triumph",
+    "usage_context": "Winning moments",
+    "offensive_in": [],
+    "cultural_notes": "Used in sports and politics."
+  }
+]
